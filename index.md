@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: My name is Sophie Kozak
 ---
 
